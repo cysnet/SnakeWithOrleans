@@ -1,0 +1,7 @@
+Snake.Client/bin/
+Snake.Client/obj/
+Snake.Common/obj/
+Snake.Common/bin/
+Snake.Server/bin/
+Snake.Server/obj/
+.vs/
